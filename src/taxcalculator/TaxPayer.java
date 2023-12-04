@@ -9,5 +9,6 @@ package taxcalculator;
  * @author User
  */
 public class TaxPayer {
+ 
     
 }
